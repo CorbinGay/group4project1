@@ -10,3 +10,15 @@
 4. Ashley Seelochan
 5. Hank Stocke
 6. Katie White
+
+## Project Description:
+
+## Data Model:
+Explanation of Data Model:
+
+## Data Dictionary:
+
+## Queries:
+
+## Database Information: 
+Name of the database: ns_Sp24_47114_Group4
