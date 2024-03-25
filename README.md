@@ -18,7 +18,7 @@ The task for this project is to model and build a relational database as the own
 Explanation of Data Model:
 
 
-<img width="567" alt="Screenshot 2024-03-25 at 2 46 18 PM" src="https://github.com/clh15315/group4project1/assets/150160152/c1977a8e-c1fa-4546-b809-a889a5fe0d3b">
+<img width="569" alt="Screenshot 2024-03-25 at 3 01 07 PM" src="https://github.com/clh15315/group4project1/assets/150160152/12570176-a2c6-43ad-86ae-68122175b83b">
 
 
 
