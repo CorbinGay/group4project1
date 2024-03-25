@@ -16,6 +16,9 @@
 ## Data Model:
 Explanation of Data Model:
 
+<img width="517" alt="Screenshot 2024-03-25 at 1 20 20 PM" src="https://github.com/clh15315/group4project1/assets/40582321/21f5feaf-8367-4e63-b145-6b3711dd5008">
+
+
 ## Data Dictionary:
 
 ## Queries:
