@@ -17,7 +17,8 @@ The task for this project is to model and build a relational database as the own
 ## Data Model:
 Explanation of Data Model:
 
-<img width="573" alt="Screenshot 2024-03-25 at 1 48 55 PM" src="https://github.com/clh15315/group4project1/assets/150160152/f121cd76-d1c6-459d-afbb-08ef1025667d">
+
+<img width="574" alt="Screenshot 2024-03-25 at 1 54 19 PM" src="https://github.com/clh15315/group4project1/assets/150160152/6b211041-ad57-4b6b-b100-1a3a442fff40">
 
 
 ## Data Dictionary:
