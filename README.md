@@ -17,7 +17,7 @@ The task for this project is to model and build a relational database as the own
 ## Data Model:
 Explanation of Data Model:
 
-Our data model is based on a hypothetical soccer club composed of many complex relationships among the entities within the club.
+Our data model is based on a hypothetical soccer club composed of many complex relationships among the different entities of the club.
 
 The club revolves around the teams and their matches. This many to many relationship is displayed in our model by the associative entity matchSchedule which allows a team to participate in many matches and allows a match to be played between two teams. 
 
