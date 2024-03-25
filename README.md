@@ -57,8 +57,10 @@ Leagues are composed of many teams that play each other and members that pay a f
 ### Table: Facilities
 
 ### Table: Equipment
+<img width="644" alt="Screenshot 2024-03-25 at 3 50 40 PM" src="https://github.com/clh15315/group4project1/assets/150160152/95c4b4a2-73d8-474e-a826-207c025fd2b9">
 
 ### Table: Parents
+<img width="643" alt="Screenshot 2024-03-25 at 3 51 02 PM" src="https://github.com/clh15315/group4project1/assets/150160152/58f672da-69ae-4764-b25f-640655cd9a13">
 
 ### Table: Memberships
 
