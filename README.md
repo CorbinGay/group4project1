@@ -11,7 +11,8 @@
 5. Hank Stocke
 6. Katie White
 
-## Project Description:
+## Problem Description:
+The task for this project is to model and build a relational database as a tennis club. In the data model, the central entity is represented as Team which contains the attributes of all of the information for each of the teams that will be playing in matches and at the tennis club. The Teams table is 
 
 ## Data Model:
 Explanation of Data Model:
