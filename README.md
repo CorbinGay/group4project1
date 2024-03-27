@@ -4,11 +4,11 @@
 47114 Group 4
 
 ## Team Members:
-1. Morgan Busbee
+1. Morgan Busbee @morgan-busbee
 2. Corbin Gay @corbinGay
 3. Carson Harris @clh15315
 4. Ashley Seelochan
-5. Hank Stocke
+5. Hank Stocke @hstocke1
 6. Katie White @katiewhite29
 
 ## Problem Description:
