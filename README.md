@@ -5,11 +5,11 @@
 
 ## Team Members:
 1. Morgan Busbee
-2. Corbin Gay
-3. Carson Harris 
+2. Corbin Gay @corbinGay
+3. Carson Harris @clh15315
 4. Ashley Seelochan
 5. Hank Stocke
-6. Katie White
+6. Katie White @katiewhite29
 
 ## Problem Description:
 The task for this project is to model and build a relational database as the owner of a soccer club. In the data model, the central entity is represented as Team which contains the attributes of all of the information for each of the teams that will be playing in matches at the soccer club. The Teams table will be connected with the information about the members on the team, the facilities, the individual matches, etc. We are interested in accurately modeling this data and their relationships, as well as generating sample data and understanding these entities and their attributes within the data. We will also be creating queries to help us understand the business insights and the operations throughout the soccer club. 
