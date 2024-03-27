@@ -35,32 +35,46 @@ Leagues are composed of many teams that play each other and members that pay a f
 
 ## Data Dictionary:
 ### Table: Players
+<img width="536" alt="Screenshot 2024-03-27 at 3 40 20 PM" src="https://github.com/clh15315/group4project1/assets/40582321/20808343-391b-42ad-b2ed-4b66a8771211">
 
 ### Table: Teams
+<img width="536" alt="Screenshot 2024-03-27 at 3 40 40 PM" src="https://github.com/clh15315/group4project1/assets/40582321/8781ae18-2e50-4221-9992-0c8df8b82f07">
 
 ### Table: Coaches
+<img width="526" alt="Screenshot 2024-03-27 at 3 40 55 PM" src="https://github.com/clh15315/group4project1/assets/40582321/511b44e7-7d93-46dc-89c7-2e2165793c76">
 
 ### Table: Leagues
+<img width="555" alt="Screenshot 2024-03-27 at 3 41 12 PM" src="https://github.com/clh15315/group4project1/assets/40582321/6a783ab9-5474-4464-8cef-3209739fa9b6">
 
 ### Table: Matches
+<img width="630" alt="Screenshot 2024-03-27 at 3 41 49 PM" src="https://github.com/clh15315/group4project1/assets/40582321/0e9bf639-2dcc-4215-8b0e-243333989e74">
 
 ### Table: Match Schedule
+<img width="553" alt="Screenshot 2024-03-27 at 3 42 10 PM" src="https://github.com/clh15315/group4project1/assets/40582321/26f675e4-60bf-425a-b51c-bb5c9b2e9752">
 
 ### Table: Training Sessions
+<img width="627" alt="Screenshot 2024-03-27 at 3 42 32 PM" src="https://github.com/clh15315/group4project1/assets/40582321/2da6d861-e5d9-4156-9038-f27298d43947">
 
 ### Table: Season
+<img width="554" alt="Screenshot 2024-03-27 at 3 42 52 PM" src="https://github.com/clh15315/group4project1/assets/40582321/8b4285ad-0cef-41a0-8e6e-17bdf2df93b5">
 
 ### Table: Facilities
+<img width="548" alt="Screenshot 2024-03-27 at 3 43 07 PM" src="https://github.com/clh15315/group4project1/assets/40582321/9bcf1220-1519-4f78-8783-56ced195a13d">
 
 ### Table: Equipment
+<img width="569" alt="Screenshot 2024-03-27 at 3 43 22 PM" src="https://github.com/clh15315/group4project1/assets/40582321/4f9be525-908d-4f28-b901-aa6ab96fe392">
 
 ### Table: Parents
+<img width="570" alt="Screenshot 2024-03-27 at 3 43 39 PM" src="https://github.com/clh15315/group4project1/assets/40582321/fde4bf88-080c-4d8c-801e-762e27f9c7af">
 
 ### Table: Memberships
+<img width="569" alt="Screenshot 2024-03-27 at 3 45 01 PM" src="https://github.com/clh15315/group4project1/assets/40582321/46b244eb-c206-4692-9485-e558d8589da3">
 
 ### Table: Referees
+<img width="567" alt="Screenshot 2024-03-27 at 3 45 15 PM" src="https://github.com/clh15315/group4project1/assets/40582321/256dc2e4-4ed7-4e29-ac0f-40d89f9de1d9">
 
 ### Table: Referee Schedule
+<img width="568" alt="Screenshot 2024-03-27 at 3 45 37 PM" src="https://github.com/clh15315/group4project1/assets/40582321/35ddc1d0-5747-47bb-95e4-e1369a6fb9ac">
 
 
 ## Queries:
