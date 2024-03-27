@@ -39,28 +39,22 @@ Leagues are composed of many teams that play each other and members that pay a f
 ### Table: Teams
 
 ### Table: Coaches
-<img width="463" alt="Screenshot 2024-03-25 at 2 11 25 PM" src="https://github.com/clh15315/group4project1/assets/40582321/d41b3c5b-d7d0-4228-a34a-88f3ff8af50c">
 
 ### Table: Leagues
-<img width="462" alt="Screenshot 2024-03-25 at 2 11 12 PM" src="https://github.com/clh15315/group4project1/assets/40582321/5249efe1-19e2-4cf2-a439-fa8a2239d9cb">
 
 ### Table: Matches
-<img width="470" alt="Screenshot 2024-03-25 at 2 12 14 PM" src="https://github.com/clh15315/group4project1/assets/40582321/f23e14cb-a6b1-4a42-a7b0-87617954c406">
 
 ### Table: Match Schedule
 
 ### Table: Training Sessions
-<img width="471" alt="Screenshot 2024-03-25 at 2 12 32 PM" src="https://github.com/clh15315/group4project1/assets/40582321/6134f80a-e597-4ee5-835a-34d6eead74e5">
 
 ### Table: Season
 
 ### Table: Facilities
 
 ### Table: Equipment
-<img width="644" alt="Screenshot 2024-03-25 at 3 50 40 PM" src="https://github.com/clh15315/group4project1/assets/150160152/95c4b4a2-73d8-474e-a826-207c025fd2b9">
 
 ### Table: Parents
-<img width="643" alt="Screenshot 2024-03-25 at 3 51 02 PM" src="https://github.com/clh15315/group4project1/assets/150160152/58f672da-69ae-4764-b25f-640655cd9a13">
 
 ### Table: Memberships
 
