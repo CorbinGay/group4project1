@@ -5,7 +5,7 @@
 
 ## Team Members:
 1. Morgan Busbee
-2. Corbin Gay
+2. Corbin Gay @CorbinGay
 3. Carson Harris
 4. Ashley Seelochan
 5. Hank Stocke
