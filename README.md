@@ -93,7 +93,29 @@ Write a query to count how many matches each ref has refereed
 Write a query to list out all players, and the name of their team, and their coaches
 <img width="600" alt="Screenshot 2024-03-27 at 8 47 47 PM" src="https://github.com/clh15315/group4project1/assets/40582321/c61eb572-95ca-4376-92e8-54d98da5a194">
 
+### Query 4: 
+Write a query to find the total number of players in each age group
+<img width="626" alt="Screenshot 2024-03-27 at 8 50 12 PM" src="https://github.com/clh15315/group4project1/assets/40582321/c73fb0e8-9833-477b-93fd-dce1b7e546bc">
 
+### Query 5: 
+
+### Query 6: 
+Write a query to count how many players are in each team
+<img width="626" alt="Screenshot 2024-03-27 at 8 51 23 PM" src="https://github.com/clh15315/group4project1/assets/40582321/a72ecca5-0cfb-4b7a-8bda-050c1b06d509">
+
+### Query 7: 
+Write a query to count the number of poor goalkeeper gloves
+
+### Query 8: 
+Write a query to list the names of players who played between 2012-2014
+
+### Query 9:
+Write a query to list the names of refs and the number of facilities they have refereed at
+<img width="444" alt="Screenshot 2024-03-27 at 8 53 02 PM" src="https://github.com/clh15315/group4project1/assets/40582321/1b471d28-4f29-4486-9dcb-06a87659841e">
+
+### Query 10:
+Write a query to find the total fee cost of membership 9-11 and 12-14 age group
+<img width="502" alt="Screenshot 2024-03-27 at 8 53 16 PM" src="https://github.com/clh15315/group4project1/assets/40582321/14b64f6d-f75b-46d9-9385-208a07f6eca8">
 
 
 ## Database Information: 
