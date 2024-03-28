@@ -132,8 +132,8 @@ Write a query to list the names of players who played between 2012-2014
 
 ### Query 9:
 Write a query to list the names of refs and the percentage of matches they have refereed at "Mauv" facility
-<img width="534" alt="Screenshot 2024-03-27 at 9 45 41 PM" src="https://github.com/clh15315/group4project1/assets/40582321/9808559d-3b9b-4284-9911-80c83a4353b8">
 
+<img width="534" alt="Screenshot 2024-03-27 at 9 45 41 PM" src="https://github.com/clh15315/group4project1/assets/40582321/9808559d-3b9b-4284-9911-80c83a4353b8">
 
 Query 9 shows a list of the referee names and the percentage of matches they have refereed at the "Mauv" facility. This gives the soccer club a way to figure out how often a single referee has spent at the "Mauv" facility in comparison to the other facilities. This can give the soccer club information about if some referees are spending too much time there or too little time and can help them to distribute them to different facilities throughout the club.
 
