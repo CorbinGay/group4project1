@@ -115,10 +115,10 @@ Write a query to list the names of the teams who have never won a championship
 Query 5 gives a list of the team names who have never won a championship. This gives the club an overview of the top teams and all of the teams who have not been winning championships. This can give them the information of where they need to put more time or effort into making that team more successful in the future.
 
 ### Query 6: 
-Write a query to count how many players are in each team
-<img width="626" alt="Screenshot 2024-03-27 at 8 51 23 PM" src="https://github.com/clh15315/group4project1/assets/40582321/a72ecca5-0cfb-4b7a-8bda-050c1b06d509">
+Write a query to list out the team names with less than 15 players
+<img width="534" alt="Screenshot 2024-03-27 at 9 56 20 PM" src="https://github.com/clh15315/group4project1/assets/40582321/1ab8be90-58b2-438b-87b6-d9920bca0dd6">
 
-Query 6 shows a list of all of the teams and how many players are in each of the teams. This is useful to the club because they have an overview of each of the teams in a very simple way. This can help them to make sure that each of the teams are distributed in an even way and is a fair match between the teams.
+Query 6 shows a list of all of the teams who have less than 15 players on that team. The soccer club can use this information in order to figure out if some teams need to have more players or some have a lot more than others. This will give them the information in order to distribute the teams in an even and fair way throughout the club so that no team has too much advantage compared to another.
 
 ### Query 7: 
 Write a query to count the number of poor goalkeeper gloves
@@ -135,7 +135,7 @@ Write a query to list the names of refs and the percentage of matches they have 
 <img width="534" alt="Screenshot 2024-03-27 at 9 45 41 PM" src="https://github.com/clh15315/group4project1/assets/40582321/9808559d-3b9b-4284-9911-80c83a4353b8">
 
 
-Query 9 shows a list of the referee names and the number of facilities they have been a referee at. This gives the soccer club a way to distribute the referees around different areas to make it fair for the teams to continue to get new referees with new eyes. This information would be most useful for the part of the soccer club that is in charge of booking the referees because it could also show the facility that is easiest for them to access if they have shown to referee a lot of games there.
+Query 9 shows a list of the referee names and the percentage of matches they have refereed at the "Mauv" facility. This gives the soccer club a way to figure out how often a single referee has spent at the "Mauv" facility in comparison to the other facilities. This can give the soccer club information about if some referees are spending too much time there or too little time and can help them to distribute them to different facilities throughout the club.
 
 ### Query 10:
 Write a query to find the total fee cost of membership 9-11 and 12-14 age group
