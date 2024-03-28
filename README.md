@@ -36,46 +36,46 @@ AUSC's structure is rounded off by the leagues, which are composed of the myriad
 
 
 ## Data Dictionary:
-### Table: Players
+### Table: players
 <img width="507" alt="Screenshot 2024-03-27 at 9 47 10 PM" src="https://github.com/clh15315/group4project1/assets/40582321/ae1f8fba-f4d9-44e7-af73-4916838fe0c6">
 
-### Table: Teams
+### Table: team
 <img width="508" alt="Screenshot 2024-03-27 at 9 49 26 PM" src="https://github.com/clh15315/group4project1/assets/40582321/65efa00b-f673-4e46-8894-01a75620381a">
 
-### Table: Coaches
+### Table: coach
 <img width="505" alt="Screenshot 2024-03-27 at 9 49 47 PM" src="https://github.com/clh15315/group4project1/assets/40582321/71bcfe8c-e33a-4764-8c74-a89b15bdba17">
 
-### Table: Leagues
+### Table: league
 <img width="555" alt="Screenshot 2024-03-27 at 3 41 12 PM" src="https://github.com/clh15315/group4project1/assets/40582321/6a783ab9-5474-4464-8cef-3209739fa9b6">
 
-### Table: Matches
+### Table: matches
 <img width="533" alt="Screenshot 2024-03-27 at 9 47 59 PM" src="https://github.com/clh15315/group4project1/assets/40582321/acb22993-7634-4611-9ac5-cefce050983d">
 
-### Table: Match Schedule
+### Table: matchSchedule
 <img width="536" alt="Screenshot 2024-03-27 at 9 50 15 PM" src="https://github.com/clh15315/group4project1/assets/40582321/6dd66aae-6b55-4908-8d58-1722fbf38abd">
 
-### Table: Training Sessions
+### Table: trainingSessions
 <img width="535" alt="Screenshot 2024-03-27 at 9 50 36 PM" src="https://github.com/clh15315/group4project1/assets/40582321/6fab8c62-8537-406b-bc11-d73284fc2015">
 
-### Table: Season
+### Table: season
 <img width="508" alt="Screenshot 2024-03-27 at 9 48 42 PM" src="https://github.com/clh15315/group4project1/assets/40582321/6717d10b-9b3a-43e6-a541-ed326050dea5">
 
-### Table: Facilities
+### Table: facilities
 <img width="509" alt="Screenshot 2024-03-27 at 9 51 13 PM" src="https://github.com/clh15315/group4project1/assets/40582321/9d46bd35-10ac-461d-a79e-a7114e24b08f">
 
-### Table: Equipment
+### Table: equipment
 <img width="536" alt="Screenshot 2024-03-27 at 9 51 37 PM" src="https://github.com/clh15315/group4project1/assets/40582321/38e2e3fe-5363-4e5f-a240-d3b3b0a4b56a">
 
-### Table: Parents
+### Table: parent
 <img width="570" alt="Screenshot 2024-03-27 at 3 43 39 PM" src="https://github.com/clh15315/group4project1/assets/40582321/fde4bf88-080c-4d8c-801e-762e27f9c7af">
 
-### Table: Memberships
+### Table: membership
 <img width="534" alt="Screenshot 2024-03-27 at 9 52 03 PM" src="https://github.com/clh15315/group4project1/assets/40582321/85dcc2b9-6aa7-4ebd-8c7f-5792e2697a93">
 
-### Table: Referees
+### Table: refs
 <img width="538" alt="Screenshot 2024-03-27 at 9 52 22 PM" src="https://github.com/clh15315/group4project1/assets/40582321/85b75e0b-389b-4169-a0c3-22463fe16419">
 
-### Table: Referee Schedule
+### Table: refSchedule
 <img width="536" alt="Screenshot 2024-03-27 at 9 52 39 PM" src="https://github.com/clh15315/group4project1/assets/40582321/58c33cc1-2a14-4c32-9cc0-c545f53c5fb6">
 
 
