@@ -81,5 +81,20 @@ AUSC's structure is rounded off by the leagues, which are composed of the myriad
 
 ## Queries:
 
+### Query 1:
+Write a query to list the name, contact information, and address of all parents whose children are on the mighty falcons team.
+<img width="631" alt="Screenshot 2024-03-27 at 8 46 44 PM" src="https://github.com/clh15315/group4project1/assets/40582321/2c567a1a-ba09-40c8-bda9-808f4f08698d">
+
+### Query 2: 
+Write a query to count how many matches each ref has refereed
+<img width="628" alt="Screenshot 2024-03-27 at 8 47 14 PM" src="https://github.com/clh15315/group4project1/assets/40582321/842e6d08-c45d-4046-80f2-c9079a97c318">
+
+### Query 3: 
+Write a query to list out all players, and the name of their team, and their coaches
+<img width="600" alt="Screenshot 2024-03-27 at 8 47 47 PM" src="https://github.com/clh15315/group4project1/assets/40582321/c61eb572-95ca-4376-92e8-54d98da5a194">
+
+
+
+
 ## Database Information: 
 Name of the database: ns_Sp24_47114_Group4
