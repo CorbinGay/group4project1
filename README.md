@@ -36,7 +36,7 @@ AUSC's structure is rounded off by the leagues, which are composed of the myriad
 
 
 ## Data Dictionary:
-### Table: players
+### Table: player
 <img width="507" alt="Screenshot 2024-03-27 at 9 47 10 PM" src="https://github.com/clh15315/group4project1/assets/40582321/ae1f8fba-f4d9-44e7-af73-4916838fe0c6">
 
 ### Table: team
