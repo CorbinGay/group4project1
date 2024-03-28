@@ -28,7 +28,7 @@ Teams are made of many players and a parent can have multiple players. Teams are
 Leagues are composed of many teams that play each other and members that pay a fee to watch games of a certain league. 
 
 
-<img width="673" alt="Screenshot 2024-03-27 at 7 51 48 PM" src="https://github.com/clh15315/group4project1/assets/150160152/7c89a27c-9987-4d60-afd5-8244c143802b">
+<img width="574" alt="Screenshot 2024-03-27 at 8 17 29 PM" src="https://github.com/clh15315/group4project1/assets/150160152/0632acaf-2b07-4d9e-a5bf-9685cdb2e6a3">
 
 
 
