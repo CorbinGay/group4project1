@@ -107,7 +107,8 @@ Query 4 gives out a list of all of the different age groups within the club and 
 
 ### Query 5: 
 Write a query to list the names of the teams who have never won a championship
-<img width="533" alt="Screenshot 2024-03-27 at 9 16 36 PM" src="https://github.com/clh15315/group4project1/assets/40582321/2c43bed6-bece-41f5-90ba-eeb010a8ce0e">
+<img width="532" alt="Screenshot 2024-03-27 at 9 27 49 PM" src="https://github.com/clh15315/group4project1/assets/40582321/cda3f36e-16da-4ad0-af92-5269e825341d">
+
 
 Query 5 gives a list of the team names who have never won a championship. This gives the club an overview of the top teams and all of the teams who have not been winning championships. This can give them the information of where they need to put more time or effort into making that team more successful in the future.
 
@@ -130,11 +131,13 @@ Write a query to list the names of players who played between 2012-2014
 Write a query to list the names of refs and the number of facilities they have refereed at
 <img width="444" alt="Screenshot 2024-03-27 at 8 53 02 PM" src="https://github.com/clh15315/group4project1/assets/40582321/1b471d28-4f29-4486-9dcb-06a87659841e">
 
-Query 9 shows a list referee names and the number of facilities they have been a referee at. 
+Query 9 shows a list of the referee names and the number of facilities they have been a referee at. This gives the soccer club a way to distribute the referees around different areas to make it fair for the teams to continue to get new referees with new eyes. This information would be most useful for the part of the soccer club that is in charge of booking the referees because it could also show the facility that is easiest for them to access if they have shown to referee a lot of games there.
 
 ### Query 10:
 Write a query to find the total fee cost of membership 9-11 and 12-14 age group
 <img width="502" alt="Screenshot 2024-03-27 at 8 53 16 PM" src="https://github.com/clh15315/group4project1/assets/40582321/14b64f6d-f75b-46d9-9385-208a07f6eca8">
+
+Query 10 gives a total fee cost for the membership of the 9-11 age group and the 12-14 age group. This helps to give the soccer club an easier way to figure out how much money is coming in from each of the age groups so that they are able to distribute that money throughout the age group evenly. This also helps to give the parents an easier way to estimate how much they will be paying for their child to play soccer.
 
 
 ## Database Information: 
