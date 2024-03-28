@@ -120,6 +120,7 @@ Query 6 shows a list of all of the teams and how many players are in each of the
 
 ### Query 7: 
 Write a query to count the number of poor goalkeeper gloves
+
 <img width="530" alt="Screenshot 2024-03-27 at 9 19 06 PM" src="https://github.com/clh15315/group4project1/assets/40582321/d5a9c1a8-ce6b-4880-b692-edf38c3dba99">
 
 Query 7 gives a count for the number of goalkeeper gloves that are in poor condition. This shows the soccer club the amount of equipment that could use an improvement in for the goalies. If there are a lot of poor goalkeeper gloves, the goalkeepers will be needing new gloves and the soccer club will be able to know this and help them quickly.
