@@ -84,12 +84,14 @@ AUSC's structure is rounded off by the leagues, which are composed of the myriad
 
 ### Query 1:
 Write a query to list the name, contact information, and address of all parents whose children are on the mighty falcons team.
+
 <img width="631" alt="Screenshot 2024-03-27 at 8 46 44 PM" src="https://github.com/clh15315/group4project1/assets/40582321/2c567a1a-ba09-40c8-bda9-808f4f08698d">
 
 Query 1 gives a list of the names of the parents, their contact information and their address for the team "Mighty Falcons." This helps the soccer club to manage who each of the parents are for this specific team. They are able to easily access this information in case of an emergency or just to be able to contact the parents when certain information needs to be presented out.
 
 ### Query 2: 
 Write a query to count how many matches each ref has refereed
+
 <img width="628" alt="Screenshot 2024-03-27 at 8 47 14 PM" src="https://github.com/clh15315/group4project1/assets/40582321/842e6d08-c45d-4046-80f2-c9079a97c318">
 
 Query 2 gives a list of all of the referees and how many matches they have refereed at. This information is useful to the soccer club so that they know how many matches the referees have been at and which referees have been the biggest help to their organization.
@@ -103,12 +105,14 @@ Query 3 lists out the names of the players, their team name, and the name of the
 
 ### Query 4: 
 Write a query to find the total number of players in each age group
+
 <img width="626" alt="Screenshot 2024-03-27 at 8 50 12 PM" src="https://github.com/clh15315/group4project1/assets/40582321/c73fb0e8-9833-477b-93fd-dce1b7e546bc">
 
 Query 4 gives out a list of all of the different age groups within the club and how many players are in each of those age groups. This can be helpful for 2 different parts of the club. For one part, it will be very helpful to be able to keep track of that many players if you are doing certain events organized by age group and you will know exactly how many people are in each of the age groups. The second part of the club that this information will be useful for is the marketing team. If they are trying to increase the amount of players for a certain age group, or the age group that has the least amount of players, they will easily be able to see which age groups they need to bring more players into the club for.
 
 ### Query 5: 
 Write a query to list the names of the teams who have never won a championship
+
 <img width="532" alt="Screenshot 2024-03-27 at 9 27 49 PM" src="https://github.com/clh15315/group4project1/assets/40582321/cda3f36e-16da-4ad0-af92-5269e825341d">
 
 
@@ -116,6 +120,7 @@ Query 5 gives a list of the team names who have never won a championship. This g
 
 ### Query 6: 
 Write a query to list out the team names with less than 15 players
+
 <img width="534" alt="Screenshot 2024-03-27 at 9 56 20 PM" src="https://github.com/clh15315/group4project1/assets/40582321/1ab8be90-58b2-438b-87b6-d9920bca0dd6">
 
 Query 6 shows a list of all of the teams who have less than 15 players on that team. The soccer club can use this information in order to figure out if some teams need to have more players or some have a lot more than others. This will give them the information in order to distribute the teams in an even and fair way throughout the club so that no team has too much advantage compared to another.
@@ -139,6 +144,7 @@ Query 9 shows a list of the referee names and the percentage of matches they hav
 
 ### Query 10:
 Write a query to find the total fee cost of membership 9-11 and 12-14 age group
+
 <img width="502" alt="Screenshot 2024-03-27 at 8 53 16 PM" src="https://github.com/clh15315/group4project1/assets/40582321/14b64f6d-f75b-46d9-9385-208a07f6eca8">
 
 Query 10 gives a total fee cost for the membership of the 9-11 age group and the 12-14 age group. This helps to give the soccer club an easier way to figure out how much money is coming in from each of the age groups so that they are able to distribute that money throughout the age group evenly. This also helps to give the parents an easier way to estimate how much they will be paying for their child to play soccer.
