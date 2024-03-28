@@ -106,13 +106,22 @@ Write a query to find the total number of players in each age group
 Query 4 gives out a list of all of the different age groups within the club and how many players are in each of those age groups. This can be helpful for 2 different parts of the club. For one part, it will be very helpful to be able to keep track of that many players if you are doing certain events organized by age group and you will know exactly how many people are in each of the age groups. The second part of the club that this information will be useful for is the marketing team. If they are trying to increase the amount of players for a certain age group, or the age group that has the least amount of players, they will easily be able to see which age groups they need to bring more players into the club for.
 
 ### Query 5: 
+Write a query to list the names of the teams who have never won a championship
+<img width="533" alt="Screenshot 2024-03-27 at 9 16 36 PM" src="https://github.com/clh15315/group4project1/assets/40582321/2c43bed6-bece-41f5-90ba-eeb010a8ce0e">
+
+Query 5 gives a list of the team names who have never won a championship. This gives the club an overview of the top teams and all of the teams who have not been winning championships. This can give them the information of where they need to put more time or effort into making that team more successful in the future.
 
 ### Query 6: 
 Write a query to count how many players are in each team
 <img width="626" alt="Screenshot 2024-03-27 at 8 51 23 PM" src="https://github.com/clh15315/group4project1/assets/40582321/a72ecca5-0cfb-4b7a-8bda-050c1b06d509">
 
+Query 6 shows a list of all of the teams and how many players are in each of the teams. This is useful to the club because they have an overview of each of the teams in a very simple way. This can help them to make sure that each of the teams are distributed in an even way and is a fair match between the teams.
+
 ### Query 7: 
 Write a query to count the number of poor goalkeeper gloves
+<img width="530" alt="Screenshot 2024-03-27 at 9 19 06 PM" src="https://github.com/clh15315/group4project1/assets/40582321/d5a9c1a8-ce6b-4880-b692-edf38c3dba99">
+
+Query 7 gives a count for the number of goalkeeper gloves that are in poor condition. This shows the soccer club the amount of equipment that could use an improvement in for the goalies. If there are a lot of poor goalkeeper gloves, the goalkeepers will be needing new gloves and the soccer club will be able to know this and help them quickly.
 
 ### Query 8: 
 Write a query to list the names of players who played between 2012-2014
@@ -120,6 +129,8 @@ Write a query to list the names of players who played between 2012-2014
 ### Query 9:
 Write a query to list the names of refs and the number of facilities they have refereed at
 <img width="444" alt="Screenshot 2024-03-27 at 8 53 02 PM" src="https://github.com/clh15315/group4project1/assets/40582321/1b471d28-4f29-4486-9dcb-06a87659841e">
+
+Query 9 shows a list referee names and the number of facilities they have been a referee at. 
 
 ### Query 10:
 Write a query to find the total fee cost of membership 9-11 and 12-14 age group
