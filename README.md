@@ -153,3 +153,5 @@ Query 10 gives a total fee cost for the membership of the 9-11 age group and the
 
 ## Database Information: 
 Name of the database: ns_Sp24_47114_Group4
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1(); - CALL TP_Q10()
