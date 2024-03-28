@@ -81,6 +81,7 @@ AUSC's structure is rounded off by the leagues, which are composed of the myriad
 
 
 ## Queries:
+<img width="675" alt="Screenshot 2024-03-27 at 10 17 18 PM" src="https://github.com/clh15315/group4project1/assets/150160152/4070d3ea-2f88-4b0c-950d-9ff489a89394">
 
 ### Query 1:
 Write a query to list the name, contact information, and address of all parents whose children are on the mighty falcons team.
