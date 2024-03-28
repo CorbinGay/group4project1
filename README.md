@@ -84,6 +84,7 @@ AUSC's structure is rounded off by the leagues, which are composed of the myriad
 ### Query 1:
 Write a query to list the name, contact information, and address of all parents whose children are on the mighty falcons team.
 <img width="631" alt="Screenshot 2024-03-27 at 8 46 44 PM" src="https://github.com/clh15315/group4project1/assets/40582321/2c567a1a-ba09-40c8-bda9-808f4f08698d">
+
 Query 1 gives a list of the names of the parents, their contact information and their address for the team "Mighty Falcons." This helps the soccer club to manage who each of the parents are for this specific team. They are able to easily access this information in case of an emergency or just to be able to contact the parents when certain information needs to be presented out.
 
 ### Query 2: 
