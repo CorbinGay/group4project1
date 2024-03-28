@@ -103,6 +103,8 @@ Query 3 lists out the names of the players, their team name, and the name of the
 Write a query to find the total number of players in each age group
 <img width="626" alt="Screenshot 2024-03-27 at 8 50 12 PM" src="https://github.com/clh15315/group4project1/assets/40582321/c73fb0e8-9833-477b-93fd-dce1b7e546bc">
 
+Query 4 gives out a list of all of the different age groups within the club and how many players are in each of those age groups. This can be helpful for 2 different parts of the club. For one part, it will be very helpful to be able to keep track of that many players if you are doing certain events organized by age group and you will know exactly how many people are in each of the age groups. The second part of the club that this information will be useful for is the marketing team. If they are trying to increase the amount of players for a certain age group, or the age group that has the least amount of players, they will easily be able to see which age groups they need to bring more players into the club for.
+
 ### Query 5: 
 
 ### Query 6: 
