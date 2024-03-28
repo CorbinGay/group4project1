@@ -20,9 +20,13 @@ Explanation of Data Model:
 Our data model is based on a hypothetical soccer club composed of many complex relationships among the different entities of the club.
 
 At the heart of AUSC are the teams, each embodying spirit, strategy, and sportsmanship. These teams engage in numerous matches throughout a season, illustrating a many-to-many relationship encapsulated within the entity known as matchSchedule. This associative entity is necessary for organizing the calendar of games, ensuring that each team has the opportunity to compete in multiple matches while facilitating the scheduling of matches between two teams. 
+
 Each match is uniquely positioned within the boundary of a season, ensuring that the narrative of the league unfolds in a structured manner, culminating in climactic season finales that determine champions. Spatially, matches are anchored to specific facilities, which provide the stage for the game. This one-to-many relationship between venues and matches underscores the importance of place in the sport. 
+
 The integrity and fairness of matches are upheld by referees, who navigate the complexities of the game with expertise. Recognizing the demanding nature of this role, AUSC employs a many-to-many relationship through the refSchedule entity, allowing referees to officiate multiple matches while enabling a single match to be overseen by multiple referees. This system ensures that matches are conducted fairly, with referees bringing varied perspectives and expertise to the game, enhancing the quality and fairness of the competition.
+
 At the individual level, teams consist of players, each bringing unique skills and roles to their team. Players are supported by coaches, who provide strategic insight, training, and mentorship. This relationship is further enriched by the involvement of parents, who may have multiple children playing across different teams, creating a web of personal investment in the club's success. Training sessions are vital for team preparation, where strategies are honed, skills are developed, and bonds are strengthened. These sessions utilize various pieces of equipment, highlighting the material needs of teams and the importance of resources in their development.
+
 AUSC's structure is rounded off by the leagues, which are composed of the myriad teams in competition. These leagues represent the broader organizational framework within which the drama of the soccer season unfolds. Members, through their financial contributions and fervent support, breathe life into the games. By paying a fee, they not only gain access to witnessing the matches but also contribute to the financial sustenance of the league, enabling it to thrive and grow.
 
 
