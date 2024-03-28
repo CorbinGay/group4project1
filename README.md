@@ -134,7 +134,10 @@ Write a query to count the number of poor goalkeeper gloves
 Query 7 gives a count for the number of goalkeeper gloves that are in poor condition. This shows the soccer club the amount of equipment that could use an improvement in for the goalies. If there are a lot of poor goalkeeper gloves, the goalkeepers will be needing new gloves and the soccer club will be able to know this and help them quickly.
 
 ### Query 8: 
-Write a query to list the names of players who played between 2012-2014
+Write a query to list the names of parents who have two male players
+<img width="532" alt="Screenshot 2024-03-27 at 10 21 06 PM" src="https://github.com/clh15315/group4project1/assets/40582321/dca3179c-6d20-4206-8be6-31f0ce997e28">
+
+Query 8 lists out the names of parents who have 2 male players listed under their names. This gives the soccer club information about which parents are in charge of 2 players within the club and can be easier for the leaders of the club to give out information to one individual parent.
 
 ### Query 9:
 Write a query to list the names of refs and the percentage of matches they have refereed at "Mauv" facility
