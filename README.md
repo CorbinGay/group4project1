@@ -96,8 +96,8 @@ Query 2 gives a list of all of the referees and how many matches they have refer
 
 ### Query 3: 
 Write a query to list out all players, and the name of their team, and their coaches names whose coaches have a bachelor's degree
-<img width="533" alt="Screenshot 2024-03-27 at 9 40 13 PM" src="https://github.com/clh15315/group4project1/assets/40582321/e2806cf1-8b9a-4382-b6e6-5adc30c2ee7e">
 
+<img width="533" alt="Screenshot 2024-03-27 at 9 40 13 PM" src="https://github.com/clh15315/group4project1/assets/40582321/e2806cf1-8b9a-4382-b6e6-5adc30c2ee7e">
 
 Query 3 lists out the names of the players, their team name, and the name of their coaches who have a bachelors degree. This is extremely useful to the soccer club in order to organize their clubs better and have a better understanding of which team the player is on and which coach is in charge of them. The bachelors degree part of the query gives an easy access to the coaches who have been through college to help the parents and the soccer club staff know who is in charge of what player.
 
